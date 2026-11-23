@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="1200" height="330" fill="#ffffff"/>
+  <text x="40" y="48" font-size="22" font-weight="700" fill="#0a0a0a">No idea reaches a live bot without passing the lab</text>
+  <text x="40" y="74" font-size="14" fill="#6b6b6b">25 coins · 1 year of hourly data · fake money only</text>
+  <g font-size="15">
+    <rect x="40" y="110" width="210" height="170" rx="14" fill="#f3f4f6"/>
+    <text x="58" y="142" font-weight="700" fill="#0a0a0a">1 · Idea</text>
+    <text x="58" y="170" fill="#333">Rules written as</text>
+    <text x="58" y="192" fill="#333">math and explained</text>
+    <text x="58" y="214" fill="#333">before any code</text>
+    <text x="258" y="200" font-size="22" fill="#9a9a9a">→</text>
+    <rect x="285" y="110" width="210" height="170" rx="14" fill="#f3f4f6"/>
+    <text x="303" y="142" font-weight="700" fill="#0a0a0a">2 · Tune</text>
+    <text x="303" y="170" fill="#333">One setting for all</text>
+    <text x="303" y="192" fill="#333">coins, using only the</text>
+    <text x="303" y="214" fill="#333">first 8 months</text>
+    <text x="503" y="200" font-size="22" fill="#9a9a9a">→</text>
+    <rect x="530" y="110" width="210" height="170" rx="14" fill="#f3f4f6"/>
+    <text x="548" y="142" font-weight="700" fill="#0a0a0a">3 · Exam</text>
+    <text x="548" y="170" fill="#333">Last 4 months it never</text>
+    <text x="548" y="192" fill="#333">saw, untouched.</text>
+    <text x="548" y="214" fill="#333">Then reversed.</text>
+    <text x="748" y="200" font-size="22" fill="#9a9a9a">→</text>
+    <rect x="775" y="110" width="210" height="170" rx="14" fill="#f3f4f6"/>
+    <text x="793" y="142" font-weight="700" fill="#0a0a0a">4 · Stress</text>
+    <text x="793" y="170" fill="#333">Double costs, nearby</text>
+    <text x="793" y="192" fill="#333">settings, coin by coin,</text>
+    <text x="793" y="214" fill="#333">without best trades,</text>
+    <text x="793" y="236" fill="#333">500 random orders</text>
+    <text x="993" y="200" font-size="22" fill="#9a9a9a">→</text>
+    <rect x="1020" y="110" width="140" height="170" rx="14" fill="#ecfdf5" stroke="#16a34a" stroke-width="1.5"/>
+    <text x="1036" y="142" font-weight="700" fill="#16a34a">Verdict</text>
+    <text x="1036" y="170" fill="#333">Pass all or</text>
+    <text x="1036" y="192" fill="#333">it doesn't</text>
+    <text x="1036" y="214" fill="#333">go live</text>
+  </g>
+</svg>
